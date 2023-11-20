@@ -1,0 +1,16 @@
+
+#conversionUtility {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+#conversionUtility input[type="text"] {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+#conversionUtility div {
+    margin-bottom: 10px;
+}
